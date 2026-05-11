@@ -1,8 +1,9 @@
-☁️ Deon Claasen | AWS Cloud Engineering Portfolio
+# ☁️ AWS Cloud Engineering Portfolio
 
-Welcome to my cloud engineering portfolio repository.
+## 📌 Introduction
 
-This repository documents my hands-on journey into cloud computing, AWS infrastructure, Linux administration, networking, security, and automation as I grow toward becoming a highly skilled Cloud Engineer and Solutions Architect.
+Welcome to my **AWS re/Start Cloud Engineering portfolio**.
+This repository documents my hands-on journey into cloud computing, AWS infrastructure, Linux administration, networking, security, and automation as I grow toward becoming a highly skilled Cloud Engineer and Solutions Architect through the **AWS re/Start program**.
 
 🚀 About Me
 
